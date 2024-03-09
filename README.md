@@ -5,7 +5,7 @@
 <h1 align="center">Soy <a href="https://github.com/Aryagm">Medardo López<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante%20de%20Ingeniería%20en;Tecnologías%20Computacionales&center=true&width=500&height=50"></a>
+<a><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante%20de%20Ingeniería%20en;Tecnologías%20Computacionales&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Soy un estudiante de cuarto año de Ingeniería en Tecnologías Computacionales. Me apasiona la programación, la innovación y la experimentación. Disfruto enfrentando nuevos desafíos y explorando soluciones creativas en el mundo de la tecnología.</h4>
